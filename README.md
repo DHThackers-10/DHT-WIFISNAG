@@ -1,5 +1,6 @@
 # DHT-WIFISNAG  
 ![DHT-HACKERS](https://img.shields.io/badge/DHT-HACKERS-magenta?style=for-the-badge) 
+
 The ultimate WiFi Credential Snagging Tool designed for testing Wi-Fi network authentication and password capturing in a stealthy and pro style — wrapped in a Rich UI with pyfiglet banners and clean console logging.  
   
   
@@ -32,7 +33,7 @@ pkg install python git -y
 pip install flask rich pyfiglet  
 git clone https://github.com/DHThackers-10/DHT-WIFISNAG.git  
 cd DHT-WIFISNAG  
-python3 dht_wifisnag.py  
+python3 DHT_WIFISNAG.py  
 ```  
   
 ---  
